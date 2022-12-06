@@ -2,7 +2,7 @@ package Programmers.Level2;
 
 public class 짝지어제거ing {
   public static void main(String[] args) {
-    String s = "baabaa";
+    String s = "cdcd";
     int answer = 0;
     boolean flag = true;
 
